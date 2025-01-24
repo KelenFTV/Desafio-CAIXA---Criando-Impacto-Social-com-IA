@@ -1,102 +1,65 @@
-# Desafio-CAIXA-Criando-Impacto-Social-com-IA
-Projeto Assistente Virtual Benefícios Sociais CAIXA - uma iniciativa revolucionária voltada para melhorar a comunicação entre os beneficiários dos Programas Sociais Federais, Estaduais e Municipais e os serviços oferecidos. 
-
+# Assistente Virtual Benefícios Sociais CAIXA: Revolucionando a Experiência dos Beneficiários
+Uma Nova Era no Atendimento Social
 <p align="center">
-<img 
-    src="./.github/assets/mascote.png"
+<img
+    src="./assets/cover.png"
     width="300"
 />
-</p>
-
+</p> 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
 </p>
-
-<p align="center">
-    preview do podcast
+> ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Desafio CAIXA - Criando Impacto Social com IA da CAIXA
+# Projeto Assistente Virtual Benefícios Sociais CAIXA
+Projeto inovador que promete transformar radicalmente a maneira como os beneficiários interagem com seus benefícios sociais.
+## 💻 Introdução
+O Assistente Virtual Benefícios Sociais CAIXA é uma iniciativa revolucionária voltada para melhorar a comunicação entre os beneficiários dos programas sociais federais, estaduais e municipais e os serviços oferecidos. Com foco inicial no Programa Bolsa Família, o projeto foi concebido para expandir suas funcionalidades e abranger outros benefícios sociais no futuro.
 </p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-- [Leonardo ai](https://leonardo.ai/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Leonardo ai Para gerar capas
-- Capcut para tratar aúdio 
-
+## 🤖 Potencial Transformador
+O Assistente Virtual Benefícios Sociais CAIXA tem o potencial de transformar significativamente a interação entre os beneficiários e os programas sociais. Seus principais impactos incluem:
+</p>
+🤖        Respostas ágeis e precisas em tempo real: Melhorando a experiência do usuário.
+</p>
+🤖        Redução da sobrecarga nos canais de atendimento tradicionais: Aliviando a demanda nos atendimentos físicos e telefônicos.
+</p>
+🤖        Inclusão digital e modernização dos serviços públicos: Tornando os serviços sociais mais acessíveis a todos os beneficiários.
+</p>
+## 🚀  Conclusão
+Este projeto representa um avanço significativo na transformação digital CAIXA e no atendimento social no Brasil. Com uma abordagem inovadora e com o uso de tecnologias avançadas, o assistente virtual redefinirá a experiência dos beneficiários, tornando os serviços sociais mais acessíveis, eficientes e modernos. Este é apenas o começo de uma jornada de transformação que promete trazer mudanças significativas para milhões de brasileiros.
+</p>
 ## 📚 Materiais
-
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
+- [ChatGPT](https://chat.openai.com/)
+- [Bot Framework da Microsoft](https://dev.botframework.com/)
+- [Link da Base de Dados ](https://hermes.dio.me/files/assets/f631a203-25c9-46c0-8ce9-ce6933cc87b3.xlsx)
+</p>
+## ✨ Resultado do Trabalho
+<a href=https://raw.githubusercontent.com/KelenFTV/Planilhas-inteligentes/main/Planilha_financeira.xlsx title="View XLSX now"> 📕Clique aqui para ver  o dashboard</a>
 ## 👨‍💻 Expert
-
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/191724182?v=4"
+    <img
+      align=left
+      margin=10
+      width=80
+      src=https://avatars.githubusercontent.com/u/191724182?v=4
     />
     <p>&nbsp&nbsp&nbspKelen Vazquez<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/KelenFTV">
+    <a
+        href=https://github.com/KelenFTV>
         GitHub
     </a>
     &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/kelen-vazquez-6">
+    <a
+        href=www.linkedin.com/in/kelen-vazquez-6>
         LinkedIn
     </a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/kelen.ferreira9/">
+    <a
+        href=https://www.instagram.com/kelen.ferreira9/>
         Instagram
     </a>
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
 ---
-
 ⌨️ com 💜 por [Kelen Vazquez](https://github.com/KelenFTV)
-
