@@ -2,7 +2,7 @@
 Uma Nova Era no Atendimento Social
 <p align="center">
 <img
-    src="./assets/mascote.png"
+    src="./assets/mascote.jpg"
     width="300"
 />
 </p> 
