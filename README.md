@@ -3,7 +3,7 @@ Projeto Assistente Virtual Benefícios Sociais CAIXA - uma iniciativa revolucion
 
 <p align="center">
 <img 
-    src=https://github.com/KelenFTV/Desafio-CAIXA---Criando-Impacto-Social-com-IA/tree/main/mascote.jpg
+    src="./.github/tree/main/mascote.jpg"
     width="300"
 />
 </p>
