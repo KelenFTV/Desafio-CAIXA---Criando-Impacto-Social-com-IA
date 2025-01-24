@@ -3,7 +3,7 @@ Projeto Assistente Virtual Benefícios Sociais CAIXA - uma iniciativa revolucion
 
 <p align="center">
 <img 
-    src="./.github/tree/main/mascote.jpg"
+    src="./.github/assets/mascote.png"
     width="300"
 />
 </p>
