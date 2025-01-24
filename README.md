@@ -1,9 +1,10 @@
-# Desafio-CAIXA---Criando-Impacto-Social-com-IA
+# Desafio-CAIXA-Criando-Impacto-Social-com-IA
 Projeto Assistente Virtual Benefícios Sociais CAIXA - uma iniciativa revolucionária voltada para melhorar a comunicação entre os beneficiários dos Programas Sociais Federais, Estaduais e Municipais e os serviços oferecidos. 
 
 <p align="center">
 <img 
-    src="./.github/assets/mascote.png"
+    src="./.github/Desafio-CAIXA---Criando-Impacto-Social-com-IA
+/assets/mascote.png"
     width="300"
 />
 </p>
