@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -27,6 +27,7 @@
             font-weight: bold;
             font-size: 1.25em;
             color: #333;
+            text-align: center;
         }
         .center {
             text-align: center;
@@ -78,7 +79,7 @@
 
         <section>
             <h2 class="highlight">Projeto Assistente Virtual Benefícios CAIXA</h2>
-            <p>Projeto inovador que promete transformar radicalmente a maneira de como os beneficiários interagem com seus benefícios sociais.</p>
+            <p class="center">Projeto inovador que promete transformar radicalmente a maneira de como os beneficiários interagem com seus benefícios sociais.</p>
         </section>
 
         <section>
@@ -112,7 +113,7 @@
 
         <section>
             <h3 class="highlight">✨ Resultado do Trabalho</h3>
-            <p><a href="https://raw.githubusercontent.com/KelenFTV/Planilhas-inteligentes/main/Planilha_financeira.xlsx" title="View XLSX now">📕 Clique aqui para ver o dashboard</a></p>
+            <p class="center"><a href="https://raw.githubusercontent.com/KelenFTV/Planilhas-inteligentes/main/Planilha_financeira.xlsx" title="View XLSX now">📕 Clique aqui para ver o dashboard</a></p>
         </section>
 
         <section>
