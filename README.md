@@ -34,12 +34,13 @@ Este projeto representa um avanço significativo na transformação digital CAIX
 **📚 <span style="font-size: 1.5em;">Materiais</span>**
 
 - [ChatGPT](https://chat.openai.com/)
-- [Bot Framework da Microsoft](https://dev.botframework.com/)
-- [Link da Base de Dados](https://hermes.dio.me/files/assets/f631a203-25c9-46c0-8ce9-ce6933cc87b3.xlsx)
+- [Copilot Studio (https://www.microsoft.com/pt-br/microsoft-copilot/microsoft-copilot-studio)
+- [Agente chatbot criado preliminarmente no Copilot Studio (https://m365.cloud.microsoft/apps/?templatedAppId=9e2962b8-7eae-4124-86f3-1799090725e1&templateInstanceId=cf6c0ed7-68df-412d-8a07-592cfcf9c816&environment=Default-ab9bba98-684a-43fb-add8-9c2bebede229&source=embedded-builder)
+
 
 **✨ <span style="font-size: 1.5em;">Resultado do Trabalho</span>**
 
-<p><a href=https://raw.githubusercontent.com/KelenFTV/Planilhas-inteligentes/main/Planilha_financeira.xlsx title="View XLSX now"> 📕Clique aqui para ver  o dashboard</a></p>
+<p><a href=https://github.com/KelenFTV/Desafio-CAIXA-Criando-Impacto-Social-com-IA/blob/main/Apresenta%C3%A7%C3%A3o_Projeto_finall.pdf now"> 📕Clique aqui para ver  o ROADMAP</a></p>
 
 👨‍💻 **# Expert**
 <p>
