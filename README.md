@@ -16,7 +16,7 @@
         }
         h1 {
             font-size: 2.5em;
-            margin-bottom: 0;
+            margin-bottom: 10px;
         }
         h2 {
             font-size: 1.5em;
