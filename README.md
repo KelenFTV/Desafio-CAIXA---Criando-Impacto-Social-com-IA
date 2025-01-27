@@ -11,7 +11,7 @@ Uma Nova Era no Atendimento Social
 > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Desafio CAIXA - Criando Impacto Social com IA da CAIXA
 # Projeto Assistente Virtual Benefícios Sociais CAIXA
 </p>
-Projeto inovador que promete transformar radicalmente a maneira como os beneficiários interagem com seus benefícios sociais.
+Projeto inovador que promete transformar radicalmente a maneira de como os beneficiários interagem com seus benefícios sociais.
 </p>
 ## 💻 Introdução
 O Assistente Virtual Benefícios Sociais CAIXA é uma iniciativa revolucionária voltada para melhorar a comunicação entre os beneficiários dos programas sociais federais, estaduais e municipais e os serviços oferecidos. Com foco inicial no Programa Bolsa Família, o projeto foi concebido para expandir suas funcionalidades e abranger outros benefícios sociais no futuro.
