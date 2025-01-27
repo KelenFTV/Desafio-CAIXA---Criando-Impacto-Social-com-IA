@@ -42,7 +42,7 @@ Este projeto representa um avanço significativo na transformação digital CAIX
 <p><a href=https://raw.githubusercontent.com/KelenFTV/Planilhas-inteligentes/main/Planilha_financeira.xlsx title="View XLSX now"> 📕Clique aqui para ver  o dashboard</a></p>
 
 👨‍💻 **# Expert**
-<p align="center">
+<p>
     <img
       width="80"
       src=https://avatars.githubusercontent.com/u/191724182?v=4
