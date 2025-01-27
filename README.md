@@ -17,11 +17,11 @@
 
 💻 **#Introdução**
 
-O Assistente Virtual Benefícios Sociais CAIXA é uma iniciativa revolucionária voltada para melhorar a comunicação entre os beneficiários dos programas sociais federais, estaduais e municipais e os serviços oferecidos. Com foco inicial no Programa Bolsa Família, o projeto foi concebido para expandir suas funcionalidades e abranger outros benefícios sociais no futuro.
+<p><strong>O Assistente Virtual Benefícios Sociais CAIXA é uma iniciativa revolucionária voltada para melhorar a comunicação entre os beneficiários dos programas sociais federais, estaduais e municipais e os serviços oferecidos. Com foco inicial no Programa Bolsa Família, o projeto foi concebido para expandir suas funcionalidades e abranger outros benefícios sociais no futuro.</strong></p>
 
 🤖 **#Potencial Transformador**
 
-O Assistente Virtual Benefícios Sociais CAIXA tem o potencial de transformar significativamente a interação entre os beneficiários e os programas sociais. Seus principais impactos incluem:
+<p><strong>O Assistente Virtual Benefícios Sociais CAIXA tem o potencial de transformar significativamente a interação entre os beneficiários e os programas sociais. Seus principais impactos incluem:</strong></p>
 
 - **Respostas ágeis e precisas em tempo real:** Melhorando a experiência do usuário.
 - **Redução da sobrecarga nos canais de atendimento tradicionais:** Aliviando a demanda nos atendimentos físicos e telefônicos.
@@ -29,7 +29,7 @@ O Assistente Virtual Benefícios Sociais CAIXA tem o potencial de transformar si
 
 🚀 **#Conclusão**
 
-Este projeto representa um avanço significativo na transformação digital CAIXA e no atendimento social no Brasil. Com uma abordagem inovadora e com o uso de tecnologias avançadas, o assistente virtual redefinirá a experiência dos beneficiários, tornando os serviços sociais mais acessíveis, eficientes e modernos. Este é apenas o começo de uma jornada de transformação que promete trazer mudanças significativas para milhões de brasileiros.
+<p><strong>Este projeto representa um avanço significativo na transformação digital CAIXA e no atendimento social no Brasil. Com uma abordagem inovadora e com o uso de tecnologias avançadas, o assistente virtual redefinirá a experiência dos beneficiários, tornando os serviços sociais mais acessíveis, eficientes e modernos. Este é apenas o começo de uma jornada de transformação que promete trazer mudanças significativas para milhões de brasileiros.</strong></p>
 
 📚 **#Materiais**
 
@@ -39,7 +39,7 @@ Este projeto representa um avanço significativo na transformação digital CAIX
 
 ✨ **#Resultado do Trabalho**
 
-<a href=https://raw.githubusercontent.com/KelenFTV/Planilhas-inteligentes/main/Planilha_financeira.xlsx title="View XLSX now"> 📕Clique aqui para ver  o dashboard</a>
+<p><a href=https://raw.githubusercontent.com/KelenFTV/Planilhas-inteligentes/main/Planilha_financeira.xlsx title="View XLSX now"> 📕Clique aqui para ver  o dashboard</a></p>
 
 👨‍💻 **# Expert**
 <p align="center">
