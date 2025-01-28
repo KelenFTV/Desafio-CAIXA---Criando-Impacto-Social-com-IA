@@ -38,10 +38,9 @@ Este projeto representa um avanço significativo na transformação digital CAIX
 - Agente chatbot criado preliminarmente no Copilot Studio (https://github.com/KelenFTV/Desafio-CAIXA-Criando-Impacto-Social-com-IA/blob/main/Cria%C3%A7%C3%A3o_Agente.pdf)
 
 
-**✨ <span style="font-size: 1.5em;">Roadmap e Passo a Passo</span>**
+**✨ <span style="font-size: 1.5em;">Roadmap </span>**
 
 <p><a href=https://github.com/KelenFTV/Desafio-CAIXA-Criando-Impacto-Social-com-IA/blob/main/Apresenta%C3%A7%C3%A3o_Projeto_finall.pdf now"> 📕Clique aqui para ver  o ROADMAP</a></p>
-<p><a href=https://github.com/KelenFTV/Desafio-CAIXA-Criando-Impacto-Social-com-IA/blob/main/Passo-a-passo_Cria%C3%A7%C3%A3o_BEN.pdf) 📕Clique aqui para ver </a></p>
 
 
 👨‍💻 **# Expert**
