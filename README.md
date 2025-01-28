@@ -35,10 +35,10 @@ Este projeto representa um avanço significativo na transformação digital CAIX
 
 - ChatGPT(https://chat.openai.com/)
 - Copilot Studio (https://www.microsoft.com/pt-br/microsoft-copilot/microsoft-copilot-studio)
-- Agente chatbot criado preliminarmente no Copilot Studio (https://m365.cloud.microsoft/apps/?templatedAppId=9e2962b8-7eae-4124-86f3-1799090725e1&templateInstanceId=cf6c0ed7-68df-412d-8a07-592cfcf9c816&environment=Default-ab9bba98-684a-43fb-add8-9c2bebede229&source=embedded-builder)
+- Agente chatbot criado preliminarmente no Copilot Studio (/href=https://github.com/KelenFTV/Desafio-CAIXA-Criando-Impacto-Social-com-IA/blob/main/Cria%C3%A7%C3%A3o_Agente.pdf)
 
 
-**✨ <span style="font-size: 1.5em;">Roadmap e Telas iniciais (testes)</span>**
+**✨ <span style="font-size: 1.5em;">Roadmap e Passo a Passo</span>**
 
 <p><a href=https://github.com/KelenFTV/Desafio-CAIXA-Criando-Impacto-Social-com-IA/blob/main/Apresenta%C3%A7%C3%A3o_Projeto_finall.pdf now"> 📕Clique aqui para ver  o ROADMAP</a></p>
 
